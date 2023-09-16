@@ -1,3 +1,5 @@
-all_tracks_from_top_playlists.pkl
-audio_feature_df.pkl
-secrets.txt
+
+*.txt
+*.pkl
+*.p
+*.json
